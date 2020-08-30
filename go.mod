@@ -50,6 +50,7 @@ require (
 	github.com/mattn/go-shellwords v1.0.10
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/mitchellh/reflectwalk v1.0.1 // indirect
+	github.com/moby/term v0.0.0-20200611042045-63b9a826fb74 // indirect
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/pkg/errors v0.9.1
@@ -83,5 +84,6 @@ replace (
 	github.com/Azure/go-autorest => github.com/Azure/go-autorest v14.2.0+incompatible
 	github.com/docker/distribution => github.com/docker/distribution v0.0.0-20191216044856-a8371794149d
 	github.com/go-openapi/spec => github.com/go-openapi/spec v0.19.8
+	golang.org/x/sys => golang.org/x/sys v0.0.0-20200511232937-7e40ca221e25
 	k8s.io/client-go => k8s.io/client-go v0.19.0
 )
