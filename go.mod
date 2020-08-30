@@ -50,7 +50,6 @@ require (
 	github.com/mattn/go-shellwords v1.0.10
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/mitchellh/reflectwalk v1.0.1 // indirect
-	github.com/moby/term v0.0.0-20200611042045-63b9a826fb74 // indirect
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.0.1
 	github.com/pkg/errors v0.9.1
